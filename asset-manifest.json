@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f4d62962.chunk.css",
-    "main.js": "/static/js/main.527afb4e.chunk.js",
-    "main.js.map": "/static/js/main.527afb4e.chunk.js.map",
+    "main.css": "/static/css/main.d45b25c2.chunk.css",
+    "main.js": "/static/js/main.8657b5d9.chunk.js",
+    "main.js.map": "/static/js/main.8657b5d9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0d69078f.js",
     "runtime-main.js.map": "/static/js/runtime-main.0d69078f.js.map",
     "static/js/2.8c967679.chunk.js": "/static/js/2.8c967679.chunk.js",
     "static/js/2.8c967679.chunk.js.map": "/static/js/2.8c967679.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0d4bcc9e70a7d5b1222e82d0f18cf922.js": "/precache-manifest.0d4bcc9e70a7d5b1222e82d0f18cf922.js",
+    "precache-manifest.9d7615d592bea67ede60fdf81d46bf79.js": "/precache-manifest.9d7615d592bea67ede60fdf81d46bf79.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f4d62962.chunk.css.map": "/static/css/main.f4d62962.chunk.css.map",
+    "static/css/main.d45b25c2.chunk.css.map": "/static/css/main.d45b25c2.chunk.css.map",
     "static/media/ACM.png": "/static/media/ACM.87cb69df.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/COMSATS.png": "/static/media/COMSATS.8f09105f.png",
@@ -59,7 +59,7 @@
   "entrypoints": [
     "static/js/runtime-main.0d69078f.js",
     "static/js/2.8c967679.chunk.js",
-    "static/css/main.f4d62962.chunk.css",
-    "static/js/main.527afb4e.chunk.js"
+    "static/css/main.d45b25c2.chunk.css",
+    "static/js/main.8657b5d9.chunk.js"
   ]
 }
